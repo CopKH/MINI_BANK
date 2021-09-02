@@ -16,6 +16,7 @@
 <br>
 ![BANK](https://im2.ezgif.com/tmp/ezgif-2-31395db50367.gif)
 
--auto logout
+-logout and auto logout
 <br>
+![BANK](https://im2.ezgif.com/tmp/ezgif-2-8c2a847f1db6.gif)
 ![BANK](https://im2.ezgif.com/tmp/ezgif-2-f91b448c3667.gif)
