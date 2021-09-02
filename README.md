@@ -23,5 +23,8 @@
 
 
 ## How to use 
--[this 🐷 link](https://copkh.github.io/MINI_BANK/)
-- cick this link ![BANK](https://copkh.github.io/MINI_BANK/)
+
+- Cick [this link](https://copkh.github.io/MINI_BANK/)
+- Login with user id:cp pin:3333
+- Trnasfer money with Transfer to : js  and Amount to : xxxx baht
+- Close account with id:cp pin:3333
