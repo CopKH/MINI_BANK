@@ -1,4 +1,4 @@
-## This is MINI_BANK PROJECT
+## This is MINI BANK PROJECT
 - project my jonas course javascript in  [UDEMY](https://www.udemy.com/course/the-complete-javascript-course/)
 
 ![BANK](https://user-images.githubusercontent.com/79856530/131819904-42ba5639-4c38-4a24-b650-b90020225522.png)
@@ -27,5 +27,5 @@
 
 - Cick [this link](https://copkh.github.io/MINI_BANK/)
 - Login with user id:cp pin:3333
-- Trnasfer money with Transfer to : js  and Amount to : xxxx baht
+- Transfer money with Transfer to : js  and Amount to : xxxx baht
 - Close account with id:cp pin:3333
