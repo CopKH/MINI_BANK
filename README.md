@@ -1,6 +1,6 @@
 ## This is MINI_BANK PROJECT
 
-![BANK_1](https://user-images.githubusercontent.com/79856530/131814303-9f206c46-873e-4cd5-9eae-9c0e715250e0.png)
+![BANK](https://user-images.githubusercontent.com/79856530/131819904-42ba5639-4c38-4a24-b650-b90020225522.png)
 
 ## Feature
 -logged in
