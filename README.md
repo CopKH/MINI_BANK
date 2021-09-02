@@ -18,3 +18,4 @@
 
 -auto logout
 <br>
+![BANK](https://im2.ezgif.com/tmp/ezgif-2-f91b448c3667.gif)
