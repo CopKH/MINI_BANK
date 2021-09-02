@@ -20,3 +20,7 @@
 <br>
 ![BANK](https://im2.ezgif.com/tmp/ezgif-2-8c2a847f1db6.gif)
 ![BANK](https://im2.ezgif.com/tmp/ezgif-2-f91b448c3667.gif)
+
+
+## How to use 
+- cick this link ![BANK](https://copkh.github.io/MINI_BANK/)
