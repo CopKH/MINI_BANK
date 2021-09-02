@@ -6,7 +6,8 @@
 -logged in
 <br>
 ![BANK](https://im2.ezgif.com/tmp/ezgif-2-779df2b6534a.gif)
-![BANK](https://user-images.githubusercontent.com/79856530/131814420-bb779ee5-d766-44a3-bd26-adfc933e6380.png)
-<tr>
+
+
 -realtime loan
+<br>
 ![BANK](https://im2.ezgif.com/tmp/ezgif-2-18ad3b55df6e.gif)
