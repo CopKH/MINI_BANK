@@ -4,6 +4,6 @@
 
 ## Feature
 - logged in
-![BANK](https://user-images.githubusercontent.com/79856530/131817817-a260cf4c-e333-4489-b2ef-dab142474780.mp4)
+![BANK](https://im2.ezgif.com/tmp/ezgif-2-779df2b6534a.gif)
 ![BANK](https://user-images.githubusercontent.com/79856530/131814420-bb779ee5-d766-44a3-bd26-adfc933e6380.png)
 
