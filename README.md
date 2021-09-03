@@ -6,21 +6,20 @@
 ## Feature
 -logged in
 <br>
-![BANK](https://im2.ezgif.com/tmp/ezgif-2-779df2b6534a.gif)
+![1](https://user-images.githubusercontent.com/79856530/131949586-af737577-c9a2-4bdb-8cb6-84bff22d8042.gif)
 
 
 -realtime loan
 <br>
-![BANK](https://im2.ezgif.com/tmp/ezgif-2-18ad3b55df6e.gif)
+
 
 -realtime transfer money
 <br>
-![BANK](https://im2.ezgif.com/tmp/ezgif-2-31395db50367.gif)
+
 
 -logout and auto logout
 <br>
-![BANK](https://im2.ezgif.com/tmp/ezgif-2-8c2a847f1db6.gif)
-![BANK](https://im2.ezgif.com/tmp/ezgif-2-f91b448c3667.gif)
+
 
 
 ## How to use 
