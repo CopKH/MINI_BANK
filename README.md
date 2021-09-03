@@ -11,16 +11,16 @@
 
 -realtime loan
 <br>
-
+![2](https://user-images.githubusercontent.com/79856530/131949795-91a125a3-671c-4045-bfb8-fd60fd585ba1.gif)
 
 -realtime transfer money
 <br>
-
+![3](https://user-images.githubusercontent.com/79856530/131949801-6db10365-5091-4713-bb46-780633eed6c1.gif)
 
 -logout and auto logout
 <br>
-
-
+![5](https://user-images.githubusercontent.com/79856530/131949807-a21d3568-5211-4cf1-bc81-b8a14c7d3ad8.gif)
+![4](https://user-images.githubusercontent.com/79856530/131949803-e35d852e-0777-4a1a-9175-bd350696cdba.gif)
 
 ## How to use 
 
