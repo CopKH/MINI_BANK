@@ -19,7 +19,7 @@
 
 -logout and auto logout
 <br>
-![5](https://user-images.githubusercontent.com/79856530/131949807-a21d3568-5211-4cf1-bc81-b8a14c7d3ad8.gif)
+![5](https://user-images.githubusercontent.com/79856530/131950056-e9f51d1d-9106-4e1a-acac-809752fb04c7.gif)
 ![4](https://user-images.githubusercontent.com/79856530/131949803-e35d852e-0777-4a1a-9175-bd350696cdba.gif)
 
 ## How to use 
